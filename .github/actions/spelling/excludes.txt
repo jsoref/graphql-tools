@@ -1,0 +1,14 @@
+ignore$
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)vendor/
+^\.github/
+\.gif$
+\.gitattributes$
+\.garphql$
+\.ico$
+\.lock$
+\.patch$
+\.png$
+\.prettierrc$
+\.svg$
